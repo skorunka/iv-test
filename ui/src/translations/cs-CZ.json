@@ -1,0 +1,16 @@
+{
+	"APP_NAME": "Test App",
+	"About": "O nás",
+	"Home": "Domů",
+	"Logged in as": "Přihlášen jako",
+	"Login": "Přihlásit",
+	"Logout": "Odhlásit",
+	"Password": "Heslo",
+	"Password is required": "Heslo je povinné",
+	"Username": "Uživatelské jméno",
+	"Username is required": "Uživatelské jméno je povinné",
+	"Username or password incorrect.": "Neplatné přihlašovací údaje",
+	"Remember me": "Přihlásit trvale",
+	"Version": "Verze",
+	"Loading...": "Nahrávám..."
+}
