@@ -1,6 +1,8 @@
 # Number to Ordinal
 
-Finish the function numberToOrdinal, which should take a number and return it as a string with the correct ordinal indicator suffix (in English). That is:
+Finish the function numberToOrdinal, which should take a number and return it as a string with the correct ordinal indicator suffix (in English).
+
+That is:
 
 - numberToOrdinal(1) ==> '1st'
 - numberToOrdinal(2) ==> '2nd'
