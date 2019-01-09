@@ -10,3 +10,5 @@ That is:
 - numberToOrdinal(4) ==> '4th'
 
 See [Ordinal Numbers](https://en.wikipedia.org/wiki/English_numerals) section for more details.
+
+Focus on TDD(ideally xUnit, NSubstitute), BDD(SpecFlow) approach, rather than on implementation.
